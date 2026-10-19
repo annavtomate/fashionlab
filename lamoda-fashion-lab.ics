@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lamoda//Fashion Lab//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fashion-lab-20261029@lamoda.ru
+DTSTAMP:20261019T222900Z
+DTSTART:20261029T160000Z
+DTEND:20261029T170000Z
+SUMMARY:Lamoda Фешен Лаб — онлайн-трансляция
+DESCRIPTION:Первый выпуск Ламода Фешен Лаб — о
+ нлайн-мероприятия о стиле и фешен для «И
+ кон стиля» Lamoda Club. Ведущий — стилист Але
+ ксей Сухарев\, гости — фешен-инфлюенсер 
+ Саша Буримова и стилист Лина Дембикова. 
+ Ссылку на эфир отправим отдельным письм
+ ом за час до начала. Чтобы подключиться\, 
+ отключите VPN и введите свое имя.
+LOCATION:Онлайн — ссылку пришлём письмом за 
+ час до начала
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Проверьте почту — пришла ссылка н
+ а эфир Фешен Лаб
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
