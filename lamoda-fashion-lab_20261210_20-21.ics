@@ -7,8 +7,8 @@ X-WR-CALNAME:Lamoda Фешен Лаб
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
 UID:fashion-lab-20261210@lamoda.ru
-SEQUENCE:1
-DTSTAMP:20261124T131849Z
+SEQUENCE:2
+DTSTAMP:20261124T142126Z
 DTSTART:20261210T170000Z
 DTEND:20261210T180000Z
 SUMMARY:Lamoda Фешен Лаб — онлайн-трансляция
@@ -26,7 +26,7 @@ DESCRIPTION:Ламода Фешен Лаб — серия онлайн-ме
  ире.\n\nКоличество мест на трансляции огр
  аничено. Если присоединиться не получит
  ся\, отправим запись эфира.\n\nПодключитьс
- я к трансляции: https://www.lamoda.ru/lp/lamoda_fashion_lab/
+ я к трансляции: https://www.lamoda.ru/lp/lamoda_fashion_lab_2/
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>Ламода Фешен Лаб 
  — серия онлайн-мероприятий о стиле и феш
  ен в рамках программы лояльности Lamoda Club.<
@@ -41,9 +41,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>Ламода Фешен Лаб
  ство мест на трансляции ограничено. Если
   присоединиться не получится\, отправим 
  запись эфира.</p><p><a href="https://www.lamoda.ru/lp/lamoda_fa
- shion_lab/">Подключиться к трансляции</a></p></body
- ></html>
-URL:https://www.lamoda.ru/lp/lamoda_fashion_lab/
+ shion_lab_2/">Подключиться к трансляции</a></p></bo
+ dy></html>
+URL:https://www.lamoda.ru/lp/lamoda_fashion_lab_2/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Через час — Lamoda Фешен Лаб
